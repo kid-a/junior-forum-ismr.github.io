@@ -1,15 +1,19 @@
 ---
 layout: page
 permalink: /schedule/
-title: schedule
+title: Schedule
 nav: true
 nav_order: 1
 ---
 
 
-| **Time (CST)**{: .h5} | **Event**{: .h5} |
+| **Time (EST)**{: .h5} | **Event**{: .h5} |
 | :-----:   | :-----: |
 | 8:50 | **Introduction and opening remarks** |
+{: .table}
+{: .table-striped}
+
+{% comment %}
 | 9:00 | **Keynote** (Karsten Kreis): Accelerated Sampling and Improved Synthesis in Diffusion Models |
 | 9:30 | **Keynote** (Tommi Jaakkola): Diffusion Models and Alternatives for Molecular Modeling |
 | 10:00 | **Poster session** |
@@ -27,5 +31,4 @@ nav_order: 1
 | 15:55 | **Award announcement** |
 | 16:00 | **Keynote** (Chenlin Meng): Score-Based Generative Models and Their Applications |
 | 16:30 | **Keynote** (Mohammad Norouzi): Imagenary Patterns with Diffusion Models |
-{: .table}
-{: .table-striped}
+{% endcomment %}
