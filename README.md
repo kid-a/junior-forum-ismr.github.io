@@ -1,5 +1,5 @@
-# The NeurIPS 2022 Workshop on Score-Based Methods
+# The Holistic Forum of Junior Medical Robotics Professors at ISMR 2023
 
-The workshop will take place at NeurIPS 2022 on December 2nd.
+The workshop will take place at ISMR 2023 in Atlanta, GA.
 
 Powered by Jekyll with the [al-folio](https://github.com/alshedivat/al-folio) theme. Please refer to the original repo for how to modify and deploy.
