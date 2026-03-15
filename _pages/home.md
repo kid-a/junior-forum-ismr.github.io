@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-home_title: <b>The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2024</b>
+home_title: <b>The Holistic Forum of Medical Robotics Junior Professors @ ISMR 2026</b>
 subtitle:
 nav_title: Home
 permalink: /
