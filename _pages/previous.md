@@ -9,35 +9,34 @@ nav_order: 2
 permalink: /previous-editions
 ---
 
-Second Edition, April 19, 2023
+Third Edition, June 3, 2023
 ----
 ### Speakers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
+  {% include people_horizontal.html name="Edoardo Battaglia" affiliation="University of Utah" url="https://faculty.utah.edu/u6037710-EDOARDO_BATTAGLIA/research/index.hml" img="/assets/img/people/edoardo.png" %}
 
-  {% include people_horizontal.html name="S. Farokh Atashzar" affiliation="New York University" url="https://engineering.nyu.edu/faculty/s-farokh-atashzar" img="/assets/img/people/farokh.jpg" %}
+  {% include people_horizontal.html name="Xiaoguang Dong" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/?pid=xiaoguang-dong" img="/assets/img/people/xiaoguang.jpg" %}
 
   {% include people_horizontal.html name="Yash Chitalia" affiliation="University of Louisville" url="https://yashchitalia.github.io" img="/assets/img/people/yash.jpg" %}
 
   {% include people_horizontal.html name="Margaret Coad" affiliation="University of Notre Dame" url="https://engineering.nd.edu/faculty/margaret-coad/" img="/assets/img/people/margaret.jpg" %}
 
-  {% include people_horizontal.html name="Nicholas P. Fey" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/fey" img="/assets/img/people/nicholas.png" %}
+  {% include people_horizontal.html name="Tayfun Efe Ertop" affiliation="Vanderbilt University" url="https://www.vanderbilt.edu/vise/visepeople/tayfun-efe-ertop/" img="/assets/img/people/tayfun.jpg" %}
 
-  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris_old.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
+  {% include people_horizontal.html name="Giovanni Pittiglio" affiliation="Harvard Medical School" img="assets/img/people/giovanni.png" url="https://giovannipittiglio.github.io" %}
 
-  {% include people_horizontal.html name="Lueder A. Kahrs" affiliation="University of Toronto" url="https://bme.utoronto.ca/faculty-research/core-faculty/lueder-kahrs/" img="assets/img/people/lueder.jpg" %}
+  {% include people_horizontal.html name="Keya Ghonasgi" affiliation="Georgia Institute of Technology" url="https://www.keyaghonasgi.com" img="assets/img/people/keya.jpg" %}
 
   {% include people_horizontal.html name="Alan Kuntz" affiliation="University of Utah" url="https://users.cs.utah.edu/~adk/" img="/assets/img/people/alan.jpg" %}
 
-  {% include people_horizontal.html name="Tania Morimoto" affiliation="University of California San Diego" url="https://iem.ucsd.edu/researchers/people/profiles/tania-morimoto.html" img="/assets/img/people/tania.png" %}
+  {% include people_horizontal.html name="Melody Su" affiliation="Mount Holyhoke College" url="https://www.mtholyoke.edu/directory/faculty-staff/melody-su" img="/assets/img/people/melody.jpg" %}
 
-  {% include people_horizontal.html name="Sheila Russo" affiliation="Boston University" url="https://www.bu.edu/eng/profile/sheila-russo-phd/" img="/assets/img/people/sheila.jpg" %}
-
-  {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
+  {% include people_horizontal.html name="Zonghe Chua" affiliation="Case Western University" url="https://engineering.case.edu/about/school-directory/zonghe-chua" img="/assets/img/people/zonghe.jpg" %}
 
 </div>
 
+{% comment %}
 # Roundtable Panelists
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="Jessica Burgner-Kahrs" affiliation="University of Toronto" url="https://www.utm.utoronto.ca/math-cs-stats/people/jessica-burgner-kahrs" img="/assets/img/people/jessica.jpg" %}
@@ -53,35 +52,35 @@ Second Edition, April 19, 2023
   {% include people_horizontal.html name="Mahdi Tavakoli" affiliation="University of Alberta" url="http://www.ece.ualberta.ca/~mtavakol/pmwiki/" img="/assets/img/people/mahdi.png" %}
 
   {% include people_horizontal.html name="Pietro Valdastri" affiliation="University of Leeds" url="https://eps.leeds.ac.uk/electronic-engineering/staff/863/professor-pietro-valdastri" img="/assets/img/people/pietro.jpg" %}
-
-
 </div>
+
+{% endcomment %}
+
 
 # Organizers
 <div class="row row-cols-2 projects pt-3 pb-3">
   {% include people_horizontal.html name="S. Farokh Atashzar" affiliation="New York University" url="https://engineering.nyu.edu/faculty/s-farokh-atashzar" img="/assets/img/people/farokh.jpg" %}
   {% include people_horizontal.html name="Farshid Alambeigi" affiliation="The University of Texas at Austin" url="https://www.me.utexas.edu/people/faculty-directory/alambeigi" img="/assets/img/people/farshid.jpg" %}
   {% include people_horizontal.html name="Jie Ying Wu" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/jieying-wu" img="/assets/img/people/jie.jpg" %}
-  {% include people_horizontal.html name="Robert J. Webster" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/robert-webster/" img="assets/img/people/bob.jpg" %}
-  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris_old.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
+  {% include people_horizontal.html name="Loris Fichera" affiliation="Worcester Polytechnic Institute" img="assets/img/people/loris.jpg" url="https://www.wpi.edu/people/faculty/lfichera" %}
 </div>
 
 | **Time (EST)**{: .h5} |  |
 | :-----:   | :----- |
 | 8:45 | **Welcome and Opening Remarks** |
-| 8:50 | **Lueder Kahrs**: Vision-based Control of Tissue Ablation and Cutting |
-| 9:10 | **Margaret Coad**: Soft Inflatable Medical Robots: Enabling New Capabilities for Patient Care |
-| 9:30 | **Tania Morimoto**: Surgical Robot Design: From Patient- to Surgeon-Side Devices |
+| 8:50 | **Edoardo Battaglia**: Looking for Human-Centered Simplicity in Medical Haptics and Robotics |
+| 9:10 | **Xiaoguang Dong**: Magnetically actuated implantable devices for biofluid transportation  |
+| 9:30 | **Margaret Coad**: Design, Modeling, and Control of a Soft Inflatable Wrist Exosuit |
 | 10:00 | Coffee Break |
-| 10:30 | **Nicholas P. Fey**: Accounting for the Intention, Form and Objective of Wearers of Assistive Devices during Ambulation through Peripheral Sensing and Predictive Modeling |
-| 10:50 | **Yash Chitalia**: Concentric tendon-driven robots: A paradigm for the future?|
-| 11:10 | **Sheila Russo**: Addressing challenges in MIS through Soft Robotics|
-| 11:30 | **Alan Kuntz**: Autonomously Manipulating Deformable Tissue and Novel Micro-Scale Continuum Robots|
+| 10:30 | **Tayfun Efe Ertop**: Shaping the Future of Endoscopic Surgery with Continuum Robotics |
+| 10:50 | **Giovanni Pittiglio**: Magnetic Ball Chains for Cardiac Ablation |
+| 11:10 | **Keya Ghonasgi**: Engineering Intelligent Physical Human-Exoskeleton Interactions |
+| 11:30 | A word from the workshop sponsor: **Quanser** (with raffle!) |
 | 12:00 | Lunch Break |
-| 1:30 | **S. Farokh Atashzar**: From Muscles to Machines: Decoding Human Intent for Neurorobot Control |
-| 1:50 | **Farshid Alambeigi**: Robotic Surgineering, from Spinal Fixation to Volumetric Muscle Loss Bioprinting |
-| 2:10 | **Loris Fichera**: Beyond the Operating Room: Surgical Robots in Clinic |
-| 2:30 | **Jie Ying Wu**: Building Better Tools For Surgical Training And Guidance Through Machine Learning And Augmented Reality |
+| 1:30 | **Melody Su**: Perception Complementarity in Robot Assisted Surgeries |
+| 1:50 | **Zonghe Chua**: Minimally Invasive Telesurgery in the Era of Force Awareness and Feedback |
+| 2:10 | **Alan Kuntz**: Building the surgical systems of the future: reducing invasiveness and increasing autonomy |
+| 2:30 | **Yash Chitalia**: Multi-modal continuum robots: a new paradigm? |
 | 3:00 | Coffee Break |
 | 3:30 | **Round Table** |
 | 5:00 | Closing Remarks & End of Workshop |
