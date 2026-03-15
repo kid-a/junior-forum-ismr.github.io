@@ -26,7 +26,7 @@ The list of speakers is being finalized. Check back soon!
 # Speakers
 
 <div class="row row-cols-2 projects pt-3 pb-3">
-  {% include people_horizontal.html name="Joanna Deaton Bertram" affiliation="Duke University" url="https://mems.duke.edu/people/joanna-bertram/" img="/assets/img/people/joanna.jpg" %}
+  {% include people_horizontal.html name="Joanna Bertram" affiliation="Duke University" url="https://mems.duke.edu/people/joanna-bertram/" img="/assets/img/people/joanna.jpg" %}
 
   {% include people_horizontal.html name="Xiaoguang Dong" affiliation="Vanderbilt University" url="https://engineering.vanderbilt.edu/bio/?pid=xiaoguang-dong" img="/assets/img/people/xiaoguang.jpg" %}
 
